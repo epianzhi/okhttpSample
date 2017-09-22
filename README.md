@@ -1,1 +1,2 @@
-This is just a model and I haven't perfected it yet,it can help you simply use okHttpManager,when you use it,Need to import the completed projects directly into your Application Developer environment....
+This is just a model and I haven't perfected it yet,it can help you simply use okHttpManager,when you use it,Need to import the completed projects directly into your Application Developer environme
+I`m back again
